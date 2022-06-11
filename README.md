@@ -1,4 +1,4 @@
-"# NEAT-trader-trainer" 
+# NEAT-trader-trainer
 
 
 This simple example code, was developed to show how we can use a NEAT algorithm to train a trading AI.
