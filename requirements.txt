@@ -1,0 +1,4 @@
+numpy
+neat-python
+pandas
+finta
