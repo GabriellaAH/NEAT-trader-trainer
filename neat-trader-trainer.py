@@ -1,5 +1,3 @@
-# from tkinter.messagebox import NO
-# from wsgiref.headers import tspecials
 import neat
 import pandas as pd
 import os
