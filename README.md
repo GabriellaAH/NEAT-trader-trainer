@@ -15,5 +15,6 @@ Pupulation level: 100 trader
 - last 10 close price
 - last 10 SMA 20 / price ratio
 - last SMA 200 / price ratio
+- tp/close ratio
 
 Each run try to trade for 3 years on Bitcoin. When this period is over, the best trader mutating and creates a new population from the best trader genom. 
